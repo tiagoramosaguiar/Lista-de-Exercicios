@@ -1,0 +1,51 @@
+C:\Users\Tiago\source\repos\Lista 01\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\Atividade 2.csproj.AssemblyReference.cache
+C:\Users\Tiago\source\repos\Lista 01\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\Atividade_2.formPrincipal.resources
+C:\Users\Tiago\source\repos\Lista 01\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\Atividade 2.csproj.GenerateResource.cache
+C:\Users\Tiago\source\repos\Lista 01\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\Atividade 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago\source\repos\Lista 01\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\Atividade 2.AssemblyInfoInputs.cache
+C:\Users\Tiago\source\repos\Lista 01\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\Atividade 2.AssemblyInfo.cs
+C:\Users\Tiago\source\repos\Lista 01\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\Atividade 2.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\repos\Lista 01\Atividade 2\Atividade 2\bin\Debug\net7.0-windows\Atividade 2.exe
+C:\Users\Tiago\source\repos\Lista 01\Atividade 2\Atividade 2\bin\Debug\net7.0-windows\Atividade 2.deps.json
+C:\Users\Tiago\source\repos\Lista 01\Atividade 2\Atividade 2\bin\Debug\net7.0-windows\Atividade 2.runtimeconfig.json
+C:\Users\Tiago\source\repos\Lista 01\Atividade 2\Atividade 2\bin\Debug\net7.0-windows\Atividade 2.dll
+C:\Users\Tiago\source\repos\Lista 01\Atividade 2\Atividade 2\bin\Debug\net7.0-windows\Atividade 2.pdb
+C:\Users\Tiago\source\repos\Lista 01\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\Atividade 2.dll
+C:\Users\Tiago\source\repos\Lista 01\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\refint\Atividade 2.dll
+C:\Users\Tiago\source\repos\Lista 01\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\Atividade 2.pdb
+C:\Users\Tiago\source\repos\Lista 01\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\Atividade 2.genruntimeconfig.cache
+C:\Users\Tiago\source\repos\Lista 01\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\ref\Atividade 2.dll
+C:\Users\Tiago\source\repos\Atividade de programação básica\Atividade 2\Atividade 2\bin\Debug\net7.0-windows\Atividade 2.exe
+C:\Users\Tiago\source\repos\Atividade de programação básica\Atividade 2\Atividade 2\bin\Debug\net7.0-windows\Atividade 2.deps.json
+C:\Users\Tiago\source\repos\Atividade de programação básica\Atividade 2\Atividade 2\bin\Debug\net7.0-windows\Atividade 2.runtimeconfig.json
+C:\Users\Tiago\source\repos\Atividade de programação básica\Atividade 2\Atividade 2\bin\Debug\net7.0-windows\Atividade 2.dll
+C:\Users\Tiago\source\repos\Atividade de programação básica\Atividade 2\Atividade 2\bin\Debug\net7.0-windows\Atividade 2.pdb
+C:\Users\Tiago\source\repos\Atividade de programação básica\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\Atividade 2.csproj.AssemblyReference.cache
+C:\Users\Tiago\source\repos\Atividade de programação básica\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\Atividade_2.formPrincipal.resources
+C:\Users\Tiago\source\repos\Atividade de programação básica\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\Atividade 2.csproj.GenerateResource.cache
+C:\Users\Tiago\source\repos\Atividade de programação básica\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\Atividade 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago\source\repos\Atividade de programação básica\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\Atividade 2.AssemblyInfoInputs.cache
+C:\Users\Tiago\source\repos\Atividade de programação básica\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\Atividade 2.AssemblyInfo.cs
+C:\Users\Tiago\source\repos\Atividade de programação básica\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\Atividade 2.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\repos\Atividade de programação básica\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\Atividade 2.dll
+C:\Users\Tiago\source\repos\Atividade de programação básica\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\refint\Atividade 2.dll
+C:\Users\Tiago\source\repos\Atividade de programação básica\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\Atividade 2.pdb
+C:\Users\Tiago\source\repos\Atividade de programação básica\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\Atividade 2.genruntimeconfig.cache
+C:\Users\Tiago\source\repos\Atividade de programação básica\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\ref\Atividade 2.dll
+C:\Users\Tiago\source\repos\Lista 1\Atividade 2\Atividade 2\bin\Debug\net7.0-windows\Atividade 2.exe
+C:\Users\Tiago\source\repos\Lista 1\Atividade 2\Atividade 2\bin\Debug\net7.0-windows\Atividade 2.deps.json
+C:\Users\Tiago\source\repos\Lista 1\Atividade 2\Atividade 2\bin\Debug\net7.0-windows\Atividade 2.runtimeconfig.json
+C:\Users\Tiago\source\repos\Lista 1\Atividade 2\Atividade 2\bin\Debug\net7.0-windows\Atividade 2.dll
+C:\Users\Tiago\source\repos\Lista 1\Atividade 2\Atividade 2\bin\Debug\net7.0-windows\Atividade 2.pdb
+C:\Users\Tiago\source\repos\Lista 1\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\Atividade 2.csproj.AssemblyReference.cache
+C:\Users\Tiago\source\repos\Lista 1\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\Atividade_2.formPrincipal.resources
+C:\Users\Tiago\source\repos\Lista 1\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\Atividade 2.csproj.GenerateResource.cache
+C:\Users\Tiago\source\repos\Lista 1\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\Atividade 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago\source\repos\Lista 1\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\Atividade 2.AssemblyInfoInputs.cache
+C:\Users\Tiago\source\repos\Lista 1\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\Atividade 2.AssemblyInfo.cs
+C:\Users\Tiago\source\repos\Lista 1\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\Atividade 2.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\repos\Lista 1\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\Atividade 2.dll
+C:\Users\Tiago\source\repos\Lista 1\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\refint\Atividade 2.dll
+C:\Users\Tiago\source\repos\Lista 1\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\Atividade 2.pdb
+C:\Users\Tiago\source\repos\Lista 1\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\Atividade 2.genruntimeconfig.cache
+C:\Users\Tiago\source\repos\Lista 1\Atividade 2\Atividade 2\obj\Debug\net7.0-windows\ref\Atividade 2.dll
