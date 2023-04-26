@@ -28,12 +28,22 @@
         /// </summary>
         private void InitializeComponent()
         {
+            LabelPrecoProduto=new Label();
             TextPrecoProduto=new TextBox();
+            LabelCondicaoPagamento=new Label();
             ComboCondicaoPagamento=new ComboBox();
             ButtonCalcular=new Button();
-            LabelPrecoProduto=new Label();
-            LabelCondicaoPagamento=new Label();
             SuspendLayout();
+            // 
+            // LabelPrecoProduto
+            // 
+            LabelPrecoProduto.AutoSize=true;
+            LabelPrecoProduto.ForeColor=Color.FromArgb(246, 246, 246);
+            LabelPrecoProduto.Location=new Point(92, 62);
+            LabelPrecoProduto.Name="LabelPrecoProduto";
+            LabelPrecoProduto.Size=new Size(100, 15);
+            LabelPrecoProduto.TabIndex=3;
+            LabelPrecoProduto.Text="Preço do produto";
             // 
             // TextPrecoProduto
             // 
@@ -44,6 +54,16 @@
             TextPrecoProduto.TabIndex=0;
             TextPrecoProduto.TextAlign=HorizontalAlignment.Center;
             TextPrecoProduto.KeyPress+=TextPrecoProduto_KeyPress;
+            // 
+            // LabelCondicaoPagamento
+            // 
+            LabelCondicaoPagamento.AutoSize=true;
+            LabelCondicaoPagamento.ForeColor=Color.FromArgb(246, 246, 246);
+            LabelCondicaoPagamento.Location=new Point(74, 115);
+            LabelCondicaoPagamento.Name="LabelCondicaoPagamento";
+            LabelCondicaoPagamento.Size=new Size(138, 15);
+            LabelCondicaoPagamento.TabIndex=4;
+            LabelCondicaoPagamento.Text="Condiçao de pagamento";
             // 
             // ComboCondicaoPagamento
             // 
@@ -67,37 +87,17 @@
             ButtonCalcular.UseVisualStyleBackColor=false;
             ButtonCalcular.Click+=ButtonCalcular_Click;
             // 
-            // LabelPrecoProduto
-            // 
-            LabelPrecoProduto.AutoSize=true;
-            LabelPrecoProduto.ForeColor=Color.FromArgb(246, 246, 246);
-            LabelPrecoProduto.Location=new Point(92, 62);
-            LabelPrecoProduto.Name="LabelPrecoProduto";
-            LabelPrecoProduto.Size=new Size(100, 15);
-            LabelPrecoProduto.TabIndex=3;
-            LabelPrecoProduto.Text="Preço do produto";
-            // 
-            // LabelCondicaoPagamento
-            // 
-            LabelCondicaoPagamento.AutoSize=true;
-            LabelCondicaoPagamento.ForeColor=Color.FromArgb(246, 246, 246);
-            LabelCondicaoPagamento.Location=new Point(74, 115);
-            LabelCondicaoPagamento.Name="LabelCondicaoPagamento";
-            LabelCondicaoPagamento.Size=new Size(138, 15);
-            LabelCondicaoPagamento.TabIndex=4;
-            LabelCondicaoPagamento.Text="Condiçao de pagamento";
-            // 
             // FormPrincipal
             // 
             AutoScaleDimensions=new SizeF(7F, 15F);
             AutoScaleMode=AutoScaleMode.Font;
             BackColor=Color.FromArgb(66, 66, 66);
             ClientSize=new Size(284, 261);
-            Controls.Add(LabelCondicaoPagamento);
             Controls.Add(LabelPrecoProduto);
-            Controls.Add(ButtonCalcular);
-            Controls.Add(ComboCondicaoPagamento);
             Controls.Add(TextPrecoProduto);
+            Controls.Add(LabelCondicaoPagamento);
+            Controls.Add(ComboCondicaoPagamento);
+            Controls.Add(ButtonCalcular);
             FormBorderStyle=FormBorderStyle.FixedSingle;
             MaximizeBox=false;
             Name="FormPrincipal";
@@ -109,10 +109,10 @@
 
         #endregion
 
+        private Label LabelPrecoProduto;
         private TextBox TextPrecoProduto;
+        private Label LabelCondicaoPagamento;
         private ComboBox ComboCondicaoPagamento;
         private Button ButtonCalcular;
-        private Label LabelPrecoProduto;
-        private Label LabelCondicaoPagamento;
     }
 }
