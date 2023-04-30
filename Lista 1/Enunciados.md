@@ -1,4 +1,4 @@
-## Atividade de programação básica
+## Atividades de programação básica
 
 1. A imobiliária Imóbilis vende apenas terrenos retangulares. Faça um programa para ler as dimensões de um terreno e depois exibir a área do terreno.
 
