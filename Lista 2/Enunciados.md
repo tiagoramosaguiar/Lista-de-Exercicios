@@ -1,3 +1,5 @@
+## Atividades de estrutura de decisão
+
 1. Faça um algoritmo para calcular a média final da disciplina de Programação, mostra essa média final e também uma mensagem informando se o aluno foi aprovado (média >=7) ou reprovado. Considere duas avaliações.
 
 2. Faça um algoritmo que receba a idade do usuário e verifique se ele tem 18 anos ou mais. Se a resposta for positiva escrever "maior de idade", senão "menor de idade".
