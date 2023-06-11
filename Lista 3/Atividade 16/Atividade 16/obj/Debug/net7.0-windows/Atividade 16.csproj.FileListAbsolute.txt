@@ -1,0 +1,17 @@
+C:\Users\Tiago\source\repos\Lista 3\Atividade 16\Atividade 16\bin\Debug\net7.0-windows\Atividade 16.exe
+C:\Users\Tiago\source\repos\Lista 3\Atividade 16\Atividade 16\bin\Debug\net7.0-windows\Atividade 16.deps.json
+C:\Users\Tiago\source\repos\Lista 3\Atividade 16\Atividade 16\bin\Debug\net7.0-windows\Atividade 16.runtimeconfig.json
+C:\Users\Tiago\source\repos\Lista 3\Atividade 16\Atividade 16\bin\Debug\net7.0-windows\Atividade 16.dll
+C:\Users\Tiago\source\repos\Lista 3\Atividade 16\Atividade 16\bin\Debug\net7.0-windows\Atividade 16.pdb
+C:\Users\Tiago\source\repos\Lista 3\Atividade 16\Atividade 16\obj\Debug\net7.0-windows\Atividade 16.csproj.AssemblyReference.cache
+C:\Users\Tiago\source\repos\Lista 3\Atividade 16\Atividade 16\obj\Debug\net7.0-windows\Atividade_16.FormPrincipal.resources
+C:\Users\Tiago\source\repos\Lista 3\Atividade 16\Atividade 16\obj\Debug\net7.0-windows\Atividade 16.csproj.GenerateResource.cache
+C:\Users\Tiago\source\repos\Lista 3\Atividade 16\Atividade 16\obj\Debug\net7.0-windows\Atividade 16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago\source\repos\Lista 3\Atividade 16\Atividade 16\obj\Debug\net7.0-windows\Atividade 16.AssemblyInfoInputs.cache
+C:\Users\Tiago\source\repos\Lista 3\Atividade 16\Atividade 16\obj\Debug\net7.0-windows\Atividade 16.AssemblyInfo.cs
+C:\Users\Tiago\source\repos\Lista 3\Atividade 16\Atividade 16\obj\Debug\net7.0-windows\Atividade 16.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\repos\Lista 3\Atividade 16\Atividade 16\obj\Debug\net7.0-windows\Atividade 16.dll
+C:\Users\Tiago\source\repos\Lista 3\Atividade 16\Atividade 16\obj\Debug\net7.0-windows\refint\Atividade 16.dll
+C:\Users\Tiago\source\repos\Lista 3\Atividade 16\Atividade 16\obj\Debug\net7.0-windows\Atividade 16.pdb
+C:\Users\Tiago\source\repos\Lista 3\Atividade 16\Atividade 16\obj\Debug\net7.0-windows\Atividade 16.genruntimeconfig.cache
+C:\Users\Tiago\source\repos\Lista 3\Atividade 16\Atividade 16\obj\Debug\net7.0-windows\ref\Atividade 16.dll
