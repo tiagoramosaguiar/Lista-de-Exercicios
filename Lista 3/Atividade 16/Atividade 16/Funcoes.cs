@@ -52,13 +52,13 @@ namespace Atividade_16
             }
         }
 
-        public void DesativarTabIndexes(Control.ControlCollection controls)
+        public void DesativarTabIndexes(Control.ControlCollection controles)
         {
-            foreach (Control control in controls)
+            foreach (Control controle in controles)
             {
-                control.TabStop = false;
-                if (control.HasChildren)
-                    DesativarTabIndexes(control.Controls);
+                controle.TabStop = false;
+                if (controle.HasChildren)
+                    DesativarTabIndexes(controle.Controls);
             }
         }
     }
